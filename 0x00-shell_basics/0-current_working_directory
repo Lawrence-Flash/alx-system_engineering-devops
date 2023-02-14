@@ -1,3 +1,2 @@
 #!/bin/bash
-path=$(which ls) 
-$path
+path=$(which ls) echo "The absolute path is" $path
