@@ -1,2 +1,2 @@
 #!/bin/bashcd 
-file /tmp/my_first_directoriy
+file /tmp/my_first_directoriy/
