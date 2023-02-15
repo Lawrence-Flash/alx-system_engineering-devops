@@ -1,3 +1,2 @@
 #!/bin/bashcd 
-cd tmp
-mkdir my_first_directory
+cd /  mkdir my_first_directoriy
